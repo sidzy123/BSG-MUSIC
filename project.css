@@ -1,0 +1,141 @@
+a.contact i{
+    text-decoration: none;
+    color: rgb(132, 130, 130);
+}
+.navbar a.nav-link{
+    color: rgb(54, 54, 54);
+
+}
+
+
+
+.second-navbar ul li{
+    padding: 25px;
+}
+
+.second-navbar ul li a{
+    color: rgb(7, 71, 6)!important;
+}
+
+.second-navbar ul li a:hover{
+border-bottom: 2px solid rgb(0, 84, 0);
+}
+
+.second-navbar ul li a:focus{
+    border-top: 2px solid rgb(0, 84, 0);
+}
+
+.second-navbar ul li a:focus{
+    border-top: 2px solid rgb(0, 84, 0);
+}
+
+.second-button a{
+    color: white;
+}
+
+
+
+
+/* Jumbotron style  */
+
+
+.hero .jumbo-text{
+    color: #fff;
+    font-family: monospace;
+    padding-top: 200px;
+}
+
+.hero .jumbo-text h6{
+  font-size: 30px;
+}
+
+
+.hero .jumbo-text h1{
+    font-weight: bolder;
+    font-size: 65px;
+}
+
+
+.hero .jumbo-text p{
+    font-size: 15px;
+}
+
+
+.hero .jumbo-text Button a{
+    color: #fff;
+    padding: 20px;
+    font-size: 40px;
+    text-decoration: none;
+}
+
+
+
+
+/* End Jumbotron style  */
+
+
+
+
+/* Start of what we offer */
+
+
+section.what-we-offer h4{
+color: rgb(159, 105, 5);
+}
+
+section.what-we-offer p{
+    padding: 15px;
+}
+section.what-we-offer .card{
+    border-radius: 5px;
+}
+
+section.what-we-offer button a{
+    color: #fff;
+    padding: 20px;
+    text-decoration: none;
+}
+
+/* ENd of what we offer */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+.jumbo-text{
+    padding-top: 120px;
+    }
+    
+    .jumbo-text h1{
+        font-size: 100px;
+    }
+    .jumbo-text p{
+        font-size: 25px;
+        padding-left: 15px;
+    }
+    .jumbo-text a{
+        padding: 10px;
+        font-size: larger;
+        margin-left:15px;
+    }
+    
+    .jumbo-text a:hover{
+        color: green;
+        background-color: #fff;
+        text-decoration: underline;
+    }
+    
+    .boxes{
+        padding: 15px 0px;
+        color: #fff;
+    } */
+    

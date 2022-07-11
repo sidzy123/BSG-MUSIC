@@ -1,0 +1,44 @@
+body{background-color: lightblue;
+}
+
+ p{
+     color: rgb(55, 55, 55);
+ }
+
+ .login-form{
+    background-color: white;
+    padding: 70px;
+ }
+
+ .login-form input.form-control{
+    margin-top: 20px;
+
+ }
+ /* .sign-up{
+ margin-left:10px;
+ } */
+
+ .loginBtn{
+    margin: 0 auto;
+ }
+#sign-in{
+    background-color: aquamarine;
+    padding: 50px;
+}
+
+#sign-in input.form-control{
+    margin-bottom: 20px;
+}
+
+.textarea{
+    margin-top: 15px;
+}
+
+.container{
+    width: 800px;
+}
+
+ul#first-list{
+    list-style: none;
+    
+}
